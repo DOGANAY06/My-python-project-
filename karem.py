@@ -1,0 +1,12 @@
+import turtle
+t=turtle.Turtle(shape="turtle")
+t.pensize(4)
+t.pencolor("red")
+t.speed(5)
+t.forward(100)
+t.right(90)
+t.forward(100)
+t.right(90)
+t.forward(100)
+t.right(90)
+t.forward(100)
